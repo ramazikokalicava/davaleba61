@@ -1,0 +1,21 @@
+div{
+    border: solid 1px grey;
+    width: 550px;
+    height: 550px;
+    margin-top: 16px ;
+    margin-left: 15px ;
+} 
+h4{
+ padding-top: 112px;
+ padding-left: 134px;
+}
+p{
+    color: gray;
+    padding-top: 134px;
+    padding-left: 134px;
+}
+img{
+  
+    margin-top: 218px;
+    margin-left: 134px;
+}
